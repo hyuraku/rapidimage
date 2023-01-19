@@ -1,5 +1,5 @@
 # RapidImage
-Find the size of an image
+Find the size of an image  
 inspired by https://github.com/sdsykes/fastimage
 
 ## Installation
